@@ -17,19 +17,29 @@ It supports all basic arithmetic operations and offers a sleek, glassmorphic UI.
 
 ---
 
-## 🖼️ Screenshots
-
-| Desktop View                             | Mobile Responsive View                |
-|-----------------------------------------|---------------------------------------|
-| ![Desktop](./screenshots/desktop.png)   | ![Mobile](./screenshots/mobile.png)   |
-
----
-
 ## 🛠️ Tech Stack
 
 - ✅ HTML5
 - ✅ CSS3 (Glassmorphism, Responsive Design)
 - ✅ JavaScript (Vanilla)
+
+---
+
+## 📸 Screenshots
+
+
+### Desktop View:
+![Desktop](images/desktop.png)
+
+---
+
+### Calculation:
+![Calculation](images/desktop2.png)
+
+---
+
+### Mobile View:
+![Mobile](images/mobile.png)
 
 ---
 
@@ -43,4 +53,23 @@ It supports all basic arithmetic operations and offers a sleek, glassmorphic UI.
 │ ├── desktop.png
 │ └── mobile.png
 └── 📄 README.md
+
+---
+
+🤝 Connect with Me:
+
+LinkedIn: www.linkedin.com/in/ayesha-tariq21
+
+---
+
+## 👩‍💻 Author
+
+**Ayesha Tariq**
+
+---
+
+
+
+
+
 
