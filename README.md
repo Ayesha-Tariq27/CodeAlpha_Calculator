@@ -38,11 +38,6 @@ It supports all basic arithmetic operations and offers a sleek, glassmorphic UI.
 
 ---
 
-### Mobile View:
-![Mobile](images/mobile.png)
-
----
-
 ## 📁 Project Structure
 
 📦 Calculator-App
